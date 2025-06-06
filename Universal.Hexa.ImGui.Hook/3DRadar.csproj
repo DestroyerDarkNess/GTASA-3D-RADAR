@@ -113,9 +113,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Open-SAMP-API.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="runtimes\win-x64\win-x64_cimgui.dll" />
   </ItemGroup>
   <ItemGroup>

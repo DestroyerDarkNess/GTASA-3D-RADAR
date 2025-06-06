@@ -16,4 +16,8 @@ A: The answers to all your questions are in this other project:  [Universal.Hexa
 
 ![sa-mp-000](https://github.com/user-attachments/assets/d3ec2f8e-f5d1-4f54-85f9-8ec50dad21c8)
 
+##  ❔ Frequently Asked Questions
 
+**1- Why does the plugin weigh 30mb?**
+
+A: It's because of the height map **(Resources\heightmap.txt)** , which is embedded directly into the resources.

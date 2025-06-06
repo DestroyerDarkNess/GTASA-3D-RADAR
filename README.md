@@ -1,5 +1,13 @@
 # SAMP-3D-RADAR
-An Internal 3D Radar + ImGui | ASI Plugin
+An Internal 3D Radar + ImGui | ASI Plugin | This project is a direct port of this other one: [Lua HUD 3D Terrain Radar](https://www.blast.hk/threads/136692/)
+
+## ⚡️ Quick start
+
+Not sure how to modify and compile this project? How can I create an internal cheat with imgui in C# - .NET Framework?
+
+A: The answers to all your questions are in this other project:  [Universal.Hexa.ImGui.Hook](https://github.com/DestroyerDarkNess/Universal.Hexa.ImGui.Hook/)
+
+## ⬇️ How to Use
 
 - **Menu: F2**
 - Requirements: **[.NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)** and **GTA SA ASI Loader**

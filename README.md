@@ -18,6 +18,6 @@ A: The answers to all your questions are in this other project:  [Universal.Hexa
 
 ##  ❔ Frequently Asked Questions
 
-**1- Why does the plugin weigh 30mb?**
+**1- How do you create a .asi based on a c# dll?**
 
-A: It's because of the height map **(Resources\heightmap.txt)** , which is embedded directly into the resources.
+A: It's thanks to a function in my [Hydra Protector](https://github.com/DestroyerDarkNess/Hydra), There's a video showing how to do this in the [Universal.Hexa.ImGui.Hook](https://github.com/DestroyerDarkNess/Universal.Hexa.ImGui.Hook/) repository, This way I manage to have a completely internal C# DLL.

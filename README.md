@@ -1,4 +1,4 @@
-# SAMP-3D-RADAR
+# GTASA-3D-RADAR
 An Internal 3D Radar + ImGui | ASI Plugin | This project is a direct port of this other one: [Lua HUD 3D Terrain Radar](https://www.blast.hk/threads/136692/)
 
 ## ⚡️ Quick start
@@ -9,6 +9,7 @@ A: The answers to all your questions are in this other project:  [Universal.Hexa
 
 ## ⬇️ How to Use
 
+- **Compatibility:**  GTA SA v1.0 US - All SAMP (San Andreas Multi-Player) Version.
 - **Menu: F2**
 - Requirements: **[.NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)** and **GTA SA ASI Loader**
 

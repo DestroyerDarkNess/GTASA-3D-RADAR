@@ -9,7 +9,7 @@ A: The answers to all your questions are in this other project:  [Universal.Hexa
 
 ## ⬇️ How to Use
 
-- **Compatibility:**  GTA SA v1.0 US - All SAMP (San Andreas Multi-Player) Version.
+- **Compatibility:**  GTA SA v1.0 US (offline) and All SAMP (San Andreas Multi-Player) Version.
 - **Menu: F2**
 - Requirements: **[.NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)** and **GTA SA ASI Loader**
 
